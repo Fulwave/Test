@@ -1,0 +1,11 @@
+Main delay 300ms to 250ms
+Feedback control
+Echo R Pre Delay = percentage of main delay
+Echo R delay percentage of main delay
+Reverb time 2.8Sec
+
+independant HPF and LPF on reverb and delays
+
+Main delay is mono unless R delay is increased above 0 then delays are panned L and R
+
+

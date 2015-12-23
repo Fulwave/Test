@@ -1,0 +1,9 @@
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: tables.c
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\arm_math.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm4.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm4_simd.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\string.h
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h

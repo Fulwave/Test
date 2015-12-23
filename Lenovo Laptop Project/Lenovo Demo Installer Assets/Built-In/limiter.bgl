@@ -1,0 +1,10 @@
+YLimEnabled False
+YLimThresh 0
+YLimClipAmp 0
+YLimRelease 10
+YLimGain 0
+YLimSoftClipEnabled False
+WLimEnabled True
+WLimThresh 0
+WLimCeiling 0
+WLimRelease 10

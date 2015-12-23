@@ -1,0 +1,68 @@
+Sigma Studio Version 3.9. Build 2, Rev 1220
+
+Analog Devices Compiler for the 3rd generation SigmaDSP core.
+Build date = 7/24/2013 at 10:32 PM
+
+## Summary ##
+(Note: Estimates are based on a 48 kHz sample rate)
+
+Instructions used:
+850	(out of a possible 1024 )
+Modulo Data RAM used (X Memory):
+451	(out of a possible 4096 )
+Non Modulo Data RAM used (X Memory):
+0	(out of a possible 4096 )
+Parameter RAM used (Y Memory):
+379	(out of a possible 1024 )
+
+Instance                      		Mips	Inst	Data	Coeff	Other
+                              			(max)
+Lo_AGC                        		137	137	39	47
+Bongiovi_AGC                  		137	137	37	47
+Crossover1                    		84	84	64	42
+Dynereo Front End             		84	84	64	42
+Compressor3                   		81	81	26	41
+Dynamic Sides                 		63	63	20	45
+SoftClip1                     		21	21	3	5
+Beginning                     		19	19	0	1
+HPF                           		18	18	18	5
+Bell2                         		17	17	116	49	using:	Biquad Looping DP
+SafeLoadCode                  		15	15	0	7
+SW vol 1                      		13	13	7	2
+Mid EQ1_4                     		12	12	12	5
+Mid EQ1                       		12	12	12	5
+Signal Detection1             		11	11	4	3
+sidechain lo                  		10	10	7	8	using:	Biquad Looping SP
+Nx2-1                         		8	8	2	3
+AGC_out_gain                  		6	6	2	2
+Bypass Level                  		6	6	2	2
+Middle and Sides Mixer        		6	6	2	2
+Bongiovi Output Gain          		6	6	2	2
+Lo and Hi Mixer               		6	6	2	2
+St Mixer1                     		6	6	2	2
+Input Gain                    		6	6	0	2
+StereoEnhance Bypass          		6	6	0	2
+End                           		5	5	0	0
+Input1                        		4	4	2	0
+Sides_2                       		3	3	1	1
+Single 1_3                    		3	3	1	1
+mono                          		3	3	1	1
+Sides                         		3	3	1	1
+Inv1_2                        		2	2	1	1
+Inv1                          		2	2	1	1
+Output2                       		2	2	0	0
+Output1                       		2	2	0	0
+GPO1                          		2	2	0	0
+
+Subroutines called:
+* Biquad Looping SP           		13	13	0	0
+* Biquad Looping DP           		176	16	0	0
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Total                      			1010	850	451	379
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(%)                          			99%	83%	11%	37%
+
+Files written:  
+program_data.dat - load file for downloading code using ADI loader
+hex_program_data.dat - load file for downloading code using microcontroller 
+ParamAddress.dat - Parameter RAM locations for schematic instances

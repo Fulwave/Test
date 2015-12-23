@@ -1,0 +1,85 @@
+Block Write
+Time:  8:42:32 - 251ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS9
+Param Address:  0x00EE
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Block Write
+Time:  8:42:32 - 282ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS8
+Param Address:  0x00ED
+Param Value:  0.707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x9D, 	0xF8
+
+
+Block Write
+Time:  8:42:32 - 282ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS9
+Param Address:  0x00EE
+Param Value:  0.707945823669434
+Bytes:  4
+Param Data:
+0x00, 	0x5A, 	0x9D, 	0xF8
+
+
+Block Write
+Time:  8:42:32 - 516ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS8
+Param Address:  0x00ED
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Block Write
+Time:  8:42:32 - 516ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS9
+Param Address:  0x00EE
+Param Value:  0.794328212738037
+Bytes:  4
+Param Data:
+0x00, 	0x65, 	0xAC, 	0x8C
+
+
+Block Write
+Time:  8:42:32 - 579ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS8
+Param Address:  0x00ED
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+Block Write
+Time:  8:42:32 - 579ms
+IC:  IC 1
+Cell Name:  MAIN_VOLUME
+Param Name:  Gain1940AlgNS9
+Param Address:  0x00EE
+Param Value:  1
+Bytes:  4
+Param Data:
+0x00, 	0x80, 	0x00, 	0x00
+
+
+

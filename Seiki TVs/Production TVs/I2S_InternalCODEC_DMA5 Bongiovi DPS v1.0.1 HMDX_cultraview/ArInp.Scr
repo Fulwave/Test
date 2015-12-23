@@ -1,0 +1,4 @@
+--create ..\NUC505BSPV3.00.002\SampleCode\StdDriver\I2S_InternalCODEC_DMA5\DPSLib.lib
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\serial_control.o
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\dps.o
+..\nuc505bspv3.00.002\samplecode\stddriver\i2s_internalcodec_dma5\tables.o
